@@ -20,9 +20,9 @@ body, model-viewer {
       
         <model-viewer 
         interaction-policy="allow-when-focused"
-        environment-image="assets/artist_workshop_2k.hdr" 
+        environment-image="assets/goegap_2k.hdr" 
 	data-js-focus-visible 
-	src="assets/001/Fi1.glb" 
+	src="assets/exhibit2.glb" 
         
         ar ar-modes="webxr scene-viewer quick-look" ar-scale="fixed"  camera-controls
         >	      
